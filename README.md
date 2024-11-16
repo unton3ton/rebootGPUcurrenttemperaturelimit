@@ -1,0 +1,2 @@
+# rebootGPUcurrenttemperaturelimit
+перезагрузка Ubuntu при достижении предельнозаданной температуры
